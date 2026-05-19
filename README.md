@@ -1,4 +1,5 @@
 # End-to-End EV Market Analytics Project
+![EV Anlytics Dashboard](dashboard.jpg)
 
 An end-to-end Data Analytics project that extracts raw Electric Vehicle (EV) data using Python, processes and stores it in a MySQL database, and visualizes key market insights through an interactive Power BI dashboard.
 
